@@ -6,6 +6,12 @@ A Python practice project using India's 2011 census dataset to develop familiari
 
 Explored an India Census 2011 dataset using Python and Jupyter Notebook to practice data analysis syntax, commands, and operations on a real-world dataset.
 
+## Development Context
+
+**Guided Learning Project**
+
+Completed as a hands-on learning exercise while following instructional material focused on Python and Pandas. The primary emphasis was on becoming familiar with common data analysis operations and practicing their use on a real-world dataset.
+
 ## Tools & Technologies
 
 - Python
@@ -17,7 +23,7 @@ Explored an India Census 2011 dataset using Python and Jupyter Notebook to pract
 - Dataset exploration and inspection
 - Data selection and filtering
 - Data manipulation using Pandas DataFrames
-- Practice with data analysis commands and syntax
+- Practice with common data analysis commands and syntax
 
 ## Files
 
@@ -26,6 +32,9 @@ Explored an India Census 2011 dataset using Python and Jupyter Notebook to pract
 | `India Census 2011.csv` | Source dataset containing India Census 2011 information. |
 | `india-census-2011-dataset.ipynb` | Jupyter Notebook containing Python code and practice exercises. |
 
-## Purpose
+## Learning Objectives
 
-To build foundational Python and Pandas skills by practicing common data analysis operations using a real-world census dataset.
+- Build foundational Python and Pandas skills.
+- Become familiar with DataFrames and dataset structure.
+- Practice selecting, filtering, and manipulating data.
+- Develop familiarity with common data
